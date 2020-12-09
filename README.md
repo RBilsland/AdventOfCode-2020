@@ -1,5 +1,6 @@
-# AdventOfCode-2020
-My daily solutions to the festive tradition that is [*Advent of Code, 2020* (https://adventofcode.com/2020/)](https://adventofcode.com/2020/). :christmas_tree:
+# Advent of Code, 2020
+# :christmas_tree:    :christmas_tree:    :christmas_tree:    :christmas_tree:    :christmas_tree:    :christmas_tree:
+My daily solutions to the festive tradition that is [*Advent of Code, 2020* (https://adventofcode.com/2020/)](https://adventofcode.com/2020/). 
 
 I'm a C# developer so all these have been build as .NET Core 3.1 console applications concentrating on result rather than looking aesthetically pleasing. :snowman:
 
